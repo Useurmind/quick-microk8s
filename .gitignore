@@ -1,0 +1,7 @@
+ansible/install-log.txt
+terraform/.terraform.tfstate.lock.info
+terraform/terraform.tfstate.backup
+terraform/terraform.tfstate
+terraform/.terraform/plugins/registry.terraform.io/hashicorp/azurerm/2.35.0/windows_amd64/terraform-provider-azurerm_v2.35.0_x5.exe
+terraform/.terraform/plugins/selections.json
+ansible/kubeconfig
